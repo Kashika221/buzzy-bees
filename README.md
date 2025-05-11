@@ -50,5 +50,7 @@ To view the website locally:
 * **Custom Domain Support**: Configured for deployment with a custom domain via the `CNAME` file.
 
 ## Screenshots
-
+![Alt Text](images/ss3.png)
+![Alt Text](images/ss2.png)
+![Alt Text](images/ss1.png)
 
